@@ -1,0 +1,360 @@
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.exe
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.deps.json
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.runtimeconfig.json
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.runtimeconfig.dev.json
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.pdb
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Moq.EntityFrameworkCore.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.csprojAssemblyReference.cache
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.AssemblyInfoInputs.cache
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.AssemblyInfo.cs
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.csproj.CoreCompileInputs.cache
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\staticwebassets\MedicalRepresentativeSchedule.StaticWebAssets.Manifest.cache
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\staticwebassets\MedicalRepresentativeSchedule.StaticWebAssets.xml
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\scopedcss\bundle\MedicalRepresentativeSchedule.styles.css
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.RazorTargetAssemblyInfo.cache
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.csproj.CopyComplete
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.dll
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.pdb
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.genruntimeconfig.cache
+C:\Users\sridh\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.csprojAssemblyReference.cache
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.AssemblyInfoInputs.cache
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.AssemblyInfo.cs
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.csproj.CoreCompileInputs.cache
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.pdb
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.exe
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.deps.json
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.runtimeconfig.json
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.runtimeconfig.dev.json
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.pdb
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Moq.EntityFrameworkCore.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\staticwebassets\MedicalRepresentativeSchedule.StaticWebAssets.Manifest.cache
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\staticwebassets\MedicalRepresentativeSchedule.StaticWebAssets.xml
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\scopedcss\bundle\MedicalRepresentativeSchedule.styles.css
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.RazorTargetAssemblyInfo.cache
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.csproj.CopyComplete
+C:\Users\sridh\source\repos\Pharmacy medicine supply management\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.exe
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.deps.json
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.pdb
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Moq.EntityFrameworkCore.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\staticwebassets\MedicalRepresentativeSchedule.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\staticwebassets\MedicalRepresentativeSchedule.StaticWebAssets.xml
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.dll
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.pdb
+C:\Users\Lenovo\source\repos\MedicalRepresentativeSchedule\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.genruntimeconfig.cache
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.exe
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.deps.json
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.runtimeconfig.json
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.runtimeconfig.dev.json
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.pdb
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Moq.EntityFrameworkCore.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.csprojAssemblyReference.cache
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.csproj.CoreCompileInputs.cache
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.AssemblyInfoInputs.cache
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.AssemblyInfo.cs
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.RazorTargetAssemblyInfo.cache
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.csproj.CopyComplete
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\staticwebassets\MedicalRepresentativeSchedule.StaticWebAssets.Manifest.cache
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\staticwebassets\MedicalRepresentativeSchedule.StaticWebAssets.xml
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.pdb
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.genruntimeconfig.cache
