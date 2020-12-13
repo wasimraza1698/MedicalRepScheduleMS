@@ -18,24 +18,37 @@ namespace MedicalRepresentativeSchedule.Controllers
     [ApiController]
     public class RepScheduleController : ControllerBase
     {
-        private IRepScheduleProvider irepschedule;
+        private readonly IRepScheduleProvider _repScheduleProvider;
         public static readonly log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
 
         //static readonly log4net.ILog _log4net = log4net.LogManager.GetLogger(typeof(RepScheduleController));
-        public RepScheduleController(IRepScheduleProvider _irepschedule)
+        public RepScheduleController(IRepScheduleProvider repSchedule)
         {
-            this.irepschedule = _irepschedule;
+            this._repScheduleProvider = repSchedule;
         }
-
 
         [HttpGet]
-        public async Task<IActionResult> Get(DateTime startdate)
+        public async Task<IActionResult> Get(DateTime startDate)
         {
-            var res = await irepschedule.GetRepScheduleAsync(startdate);
-            log.Info("returning schedule");
-            return new OkObjectResult(res);
+            try
+            {
+                var res = await _repScheduleProvider.GetRepScheduleAsync(startDate);
+                if (res != null)
+                {
+                    log.Info("returning schedule");
+                    return new OkObjectResult(res);
+                }
+                else
+                {
+                    log.Error("schedule not received");
+                    return NotFound("schedule not received");
+                }
+            }
+            catch (Exception e)
+            {
+                log.Error("Error while scheduling - "+e.Message);
+                return StatusCode(500);
+            }
         }
-
-
     }
 }

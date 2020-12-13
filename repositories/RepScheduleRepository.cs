@@ -15,12 +15,12 @@ namespace MedicalRepresentativeSchedule.repositories
         {
             doctors = new List<Doctor>()
              {
-               new Doctor { Name = "D1",Contact_Number=0987654321 , Treating_Ailment="Orthopedics"},
-               new Doctor { Name = "D2",Contact_Number=0987654321 , Treating_Ailment="General"},
-               new Doctor { Name = "D3",Contact_Number=0987654321 , Treating_Ailment="Gynecology"},
-               new Doctor { Name = "D4",Contact_Number=0987654321 , Treating_Ailment="Orthopedics"},
-               new Doctor { Name = "D5",Contact_Number=0987654321 , Treating_Ailment="General"},
-               new Doctor { Name = "D6",Contact_Number=0987654321 , Treating_Ailment="Gynecology"},
+               new Doctor { Name = "D1",ContactNumber=0987654321 , TreatingAilment="Orthopedics"},
+               new Doctor { Name = "D2",ContactNumber=0987654321 , TreatingAilment="General"},
+               new Doctor { Name = "D3",ContactNumber=0987654321 , TreatingAilment="Gynecology"},
+               new Doctor { Name = "D4",ContactNumber=0987654321 , TreatingAilment="Orthopedics"},
+               new Doctor { Name = "D5",ContactNumber=0987654321 , TreatingAilment="General"},
+               new Doctor { Name = "D6",ContactNumber=0987654321 , TreatingAilment="Gynecology"},
              };
 
             representatives = new List<RepresentativeDetails>()
