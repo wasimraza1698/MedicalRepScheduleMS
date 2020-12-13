@@ -346,9 +346,6 @@ C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\De
 C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.csprojAssemblyReference.cache
-C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.csproj.CoreCompileInputs.cache
-C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.AssemblyInfoInputs.cache
 C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.AssemblyInfo.cs
 C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.RazorTargetAssemblyInfo.cache
@@ -358,3 +355,4 @@ C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\De
 C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.dll
 C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.pdb
 C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.genruntimeconfig.cache
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

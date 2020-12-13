@@ -11,9 +11,11 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 
 namespace MedicalRepresentativeSchedule.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class RepScheduleController : ControllerBase
