@@ -356,3 +356,6 @@ C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\De
 C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.pdb
 C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.genruntimeconfig.cache
 C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.csproj.CoreCompileInputs.cache
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wasim\OneDrive\Desktop\MFPE\MedicalRepresentativeSchedule-master\obj\Debug\netcoreapp3.1\MedicalRepresentativeSchedule.MvcApplicationPartsAssemblyInfo.cache

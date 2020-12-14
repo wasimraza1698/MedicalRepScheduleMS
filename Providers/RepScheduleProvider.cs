@@ -7,11 +7,13 @@ using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
+using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Logging;
+using Moq.Language;
 
 namespace MedicalRepresentativeSchedule.Providers
 {
@@ -71,9 +73,19 @@ namespace MedicalRepresentativeSchedule.Providers
                 using (var response = await client.GetAsync("https://localhost:44394/MedicineStockInformation"))
                 {
 
-                    string stringData = response.Content.ReadAsStringAsync().Result;
-                    _stockData = JsonConvert.DeserializeObject<List<MedicineStock>>(stringData);
-
+                    if (response.IsSuccessStatusCode)
+                    {
+                        string stringData = response.Content.ReadAsStringAsync().Result;
+                        _stockData = JsonConvert.DeserializeObject<List<MedicineStock>>(stringData);
+                    }
+                    else if (response.StatusCode == HttpStatusCode.NotFound)
+                    {
+                        _stockData = null;
+                    }
+                    else
+                    {
+                        throw new Exception("Internal error in api called");
+                    }
                 }
                 return _stockData;
             }
@@ -120,7 +132,7 @@ namespace MedicalRepresentativeSchedule.Providers
                     _log.Error("Could not get RepName or Stock or DocName");
                     return null;
                 }
-                for(var i=0;i<_dates.Count;i++)
+                for (var i=0;i<_dates.Count;i++)
                 {
                     var rep = new RepSchedule
                     {
