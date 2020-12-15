@@ -12,7 +12,7 @@ namespace MedicalRepresentativeSchedule.models
         public string TreatingAilment { get; set; }
         public string Medicine { get; set; }
         public string MeetingSlot { get; set; }
-        public DateTime DateOfMeeting { get; set; }
+        public string DateOfMeeting { get; set; }
         public int DoctorContactNumber { get; set; }
 
     }

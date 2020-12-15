@@ -140,7 +140,7 @@ namespace MedicalRepresentativeSchedule.Providers
                         DoctorName = _docNames[i].Name,
                         TreatingAilment = _docNames[i].TreatingAilment,
                         MeetingSlot = "1pm-2pm",
-                        DateOfMeeting = _dates[i]
+                        DateOfMeeting = _dates[i].ToShortDateString()
                     };
                     var meds = (from s in _stock where s.TargetAilment.Contains(_docNames[i].TreatingAilment) select s.Name).ToList();
                     rep.Medicine = string.Join(",", meds);
